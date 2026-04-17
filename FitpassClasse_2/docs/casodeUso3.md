@@ -1,3 +1,6 @@
+<img width="711" height="498" alt="image" src="https://github.com/user-attachments/assets/6209f0f8-b474-4b3c-bffd-d8371e1324eb" />
+
+
 Caso de Uso 3 – Realizar Check-in (Controle de Acesso)
 
 Ator principal: Aluno
